@@ -1,5 +1,6 @@
-# Currently completed changes
-- Hidden names
+# Completed changes
+- Hidden nametags
+- Disable double tap 'w' to sprint
 
 # Planned Changes
 - Whether/fog
